@@ -14,7 +14,7 @@ My blogs and articles
 1. <a href="https://www.quora.com/q/bqoigtqpvsgefxue">Dive into data</a>
 2. <a href="https://auth.geeksforgeeks.org/user/sowmya.l.r/articles">Tech articles</a>
 
-Kaggle account: <a href="https://www.kaggle.com/lrsowmya">Sowmya.L.R Kaggle profile </a>
+Kaggle profile: <a href="https://www.kaggle.com/lrsowmya">Sowmya.L.R Kaggle profile </a>
 
 <!--
 **SowmyaLR/SowmyaLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
